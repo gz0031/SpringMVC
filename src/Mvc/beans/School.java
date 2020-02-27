@@ -9,7 +9,7 @@ package Mvc.beans;
 public class School {
     private String name;
     private String address;
-
+    //test
     @Override
     public String toString() {
         return "School{" +

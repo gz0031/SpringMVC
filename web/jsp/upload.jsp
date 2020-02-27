@@ -11,7 +11,7 @@
     <title>上传文件</title>
 </head>
 <body>
-<form method="post" action="${pageContext.request.contextPath}/test/upload.do" enctype="multipart/form-data">
+<form method="post" action="${pageContext.request.contextPath}/test/upload.do"  enctype="multipart/form-data">
     <input type="file" name="imgs"><br>
     <input type="file" name="imgs"><br>
     <input type="file" name="imgs"><br>
